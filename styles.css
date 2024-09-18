@@ -78,9 +78,8 @@ footer {
 
 @keyframes animation {
 	0% {background-color: rgb(171, 39, 39); transform: scale(1);}
-	100%{background-color: rgb(255, 81, 194); transform: scale(1.15);}
+	100%{background-color: rgb(255, 81, 194); transform: scale(1.06);}
 }
-
 /* Media queries */
 @media (max-width: 768px) {
 	main {
@@ -90,6 +89,9 @@ footer {
 		border-left: 0;
 		border-top: black solid 1rem;
 		background-color: blueviolet;
+	}
+	body {
+		background-color: bisque;
 	}
 	.top-section {
 		flex-direction: column;
@@ -102,6 +104,6 @@ footer {
 		background-color: aliceblue;
 	}
 	body {
-		/* min-width: 280px; */
+		background-color: aquamarine;
 	}
 }
