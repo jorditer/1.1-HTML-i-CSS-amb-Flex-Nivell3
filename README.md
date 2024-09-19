@@ -1,4 +1,4 @@
-# Sprint 01
+# Sprint 1.1
 ## Descripció
 
 ### Nivell 1
